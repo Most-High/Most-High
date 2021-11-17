@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Most-High
+- 👋 Self-Taught Cryptocurrency and Blockchain developer: Smart Contract developer (Solidity and Ethereum), Process/Production Technician, Quality Mgmt, OSHA prfessional.
 - 👀 I’m interested in ... Art in all of it's manifestations.
 - 🌱 I’m currently learning ... a new skill
 - 💞️ I’m looking to collaborate on ... sharing ideas and making the world a better place
